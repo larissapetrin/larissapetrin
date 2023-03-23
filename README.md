@@ -3,7 +3,7 @@
 ## Bem-vindo (a) ao meu Github! 🫶 
 
 - 📌 Atualmente estou cursando Análise de  Desenvolvimento de Sistemas pela universidade Unicesumar/PR.
-- 💻 Conhecimento em  HTML, CSS e JavaScript.
+- 💻 Conhecimento em  HTML5, CSS3 e JavaScript.
 - 🕮 Sou autodidata  e tenho dedicado  meu tempo em desenvolver novos projetos e me aprufundar em novas linguagens e tecnologias e as tendências neste mercado.
 - 📈 Em busca de nodos desafios, experiências e desenvolvimento profissional na área de desenvolvimento Front-End.
 
