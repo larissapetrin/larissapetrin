@@ -7,6 +7,7 @@
 - 🕮 Sou autodidata  e tenho dedicado  meu tempo em desenvolver novos projetos e me aprufundar em novas linguagens e tecnologias e as tendências neste mercado.
 - 📈 Em busca de nodos desafios, experiências e desenvolvimento profissional na área de desenvolvimento Front-End.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissapetrin&show_icons=true&theme=transparent)
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
