@@ -11,9 +11,9 @@
 ## Em busca de nodos desafios, experiências e desenvolvimento profissional na área de desenvolvimento Front-End.
 
 <div>
-  <a href="https://github.com/larissapetrina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissapetrina&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissapetrina&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/larissapetrin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissapetrin&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissapetrin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 ### Social Networks:
