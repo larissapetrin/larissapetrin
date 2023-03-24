@@ -5,7 +5,7 @@
 - 📌 Atualmente estou cursando Análise de  Desenvolvimento de Sistemas pela universidade Unicesumar/PR.
 - 💻 Conhecimento em  HTML5, CSS3 e JavaScript.
 - 🕮 Sou autodidata  e tenho dedicado  meu tempo em desenvolver novos projetos e me aprufundar em novas linguagens e tecnologias e as tendências neste mercado.
-- 📈 Em busca de nodos desafios, experiências e desenvolvimento profissional na área de desenvolvimento Front-End.
+- 📈 Em busca de novos desafios, experiências e desenvolvimento profissional na área de desenvolvimento Front-End.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissapetrin&show_icons=true&theme=transparent)
 
